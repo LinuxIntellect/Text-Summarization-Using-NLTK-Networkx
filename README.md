@@ -1,11 +1,11 @@
 ### Text-Summarization-Using-NLTK-Networkx
 
-<h1 style="color:red;">A Quick Introduction to Text Summarization in Machine Learning<h1></br>
+<h1>A Quick Introduction to Text Summarization in Machine Learning<h1></br>
 Text summarization refers to the technique of shortening long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in the document.</br>
 
 <h3>Automatic text summarization is a common problem in machine learning and natural language processing (NLP).</h3></br>
 
-Skyhoshi, who is a U.S.-based machine learning expert with 13 years of experience and currently teaches people his skills, says that “the technique has proved to be critical in quickly and accurately summarizing voluminous texts, something which could be expensive and time consuming if done without machines.”
+<p style="color:blue;">Skyhoshi, who is a U.S.-based machine learning expert with 13 years of experience and currently teaches people his skills, says that “the technique has proved to be critical in quickly and accurately summarizing voluminous texts, something which could be expensive and time consuming if done without machines.”</p></br>
 Machine learning models are usually trained to understand documents and distill the useful information before outputting the required summarized texts.
 <h3>What’s the need for text summarization?</h3></br>
 Propelled by the modern technological innovations, data is to this century what oil was to the previous one. Today, our world is parachuted by the gathering and dissemination of huge amounts of data.</br>
