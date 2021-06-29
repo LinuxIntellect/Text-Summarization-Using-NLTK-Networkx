@@ -23,7 +23,7 @@ Joseph and Mary rode on a donkey to attend the annual event in Jerusalem. In the
 <b>Extractive summary:</b></br>
 Joseph and Mary attend event Jerusalem. Mary birth Jesus.</br>
 As you can see above, the words in bold have been extracted and joined to create a summary — although sometimes the summary can be grammatically strange.
-Abstraction-based summarization</br>
+<h3><u>Abstraction-based summarization</u></h3></br>
 The abstraction technique entails paraphrasing and shortening parts of the source document. When abstraction is applied for text summarization in deep learning problems, it can overcome the grammar inconsistencies of the extractive method.</br>
 The abstractive text summarization algorithms create new phrases and sentences that relay the most useful information from the original text — just like humans do.
 Therefore, abstraction performs better than extraction. However, the text summarization algorithms required to do abstraction are more difficult to develop; that’s why the use of extraction is still popular.
