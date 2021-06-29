@@ -1,6 +1,7 @@
 ### Text-Summarization-Using-NLTK-Networkx
 
 <h1>A Quick Introduction to Text Summarization in Machine Learning</h1></br>
+<center><img src="https://github.com/AHAMMADMEJBAH/Text-Summarization-Using-NLTK-Networkx/blob/main/maxresdefault.jpg" alt="Text Summerization"></center>
 Text summarization refers to the technique of shortening long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in the document.</br>
 
 <h3>Automatic text summarization is a common problem in machine learning and natural language processing (NLP).</h3></br>
