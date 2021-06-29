@@ -19,8 +19,10 @@ There are two main types of how to summarize text in NLP:
 The extractive text summarization technique involves pulling keyphrases from the source document and combining them to make a summary. The extraction is made according to the defined metric without making any changes to the texts.
 <h4>Here is an example:<h4></br>
 
-<b>Source text:</b></br> Joseph and Mary rode on a donkey to attend the annual event in Jerusalem. In the city, Mary gave birth to a child named Jesus.</br>
-<b>Extractive summary:</b></br> Joseph and Mary attend event Jerusalem. Mary birth Jesus.
+<b>Source text:</b></br>
+Joseph and Mary rode on a donkey to attend the annual event in Jerusalem. In the city, Mary gave birth to a child named Jesus.</br>
+<b>Extractive summary:</b></br>
+Joseph and Mary attend event Jerusalem. Mary birth Jesus.</br>
 As you can see above, the words in bold have been extracted and joined to create a summary — although sometimes the summary can be grammatically strange.
 Abstraction-based summarization</br>
 The abstraction technique entails paraphrasing and shortening parts of the source document. When abstraction is applied for text summarization in deep learning problems, it can overcome the grammar inconsistencies of the extractive method.</br>
