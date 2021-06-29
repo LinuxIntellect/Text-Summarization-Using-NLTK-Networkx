@@ -1,7 +1,6 @@
 ### Text-Summarization-Using-NLTK-Networkx
 
-<h1>A Quick Introduction to Text Summarization in Machine Learning<h1><br>
-
+<h1>A Quick Introduction to Text Summarization in Machine Learning<h1></br>
 Text summarization refers to the technique of shortening long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in the document.<br>
 
 <h3>Automatic text summarization is a common problem in machine learning and natural language processing (NLP).</h3></br>
@@ -18,7 +17,6 @@ There are two main types of how to summarize text in NLP:
 <h3>Extraction-based summarization</h3></br>
 The extractive text summarization technique involves pulling keyphrases from the source document and combining them to make a summary. The extraction is made according to the defined metric without making any changes to the texts.
 <h4>Here is an example:<h4></br>
-
 <b>Source text:</b></br>
 Joseph and Mary rode on a donkey to attend the annual event in Jerusalem. In the city, Mary gave birth to a child named Jesus.</br>
 <b>Extractive summary:</b></br>
