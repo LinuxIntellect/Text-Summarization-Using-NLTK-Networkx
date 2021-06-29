@@ -25,14 +25,20 @@ Here is an example:
 Abstractive summary: Joseph and Mary came to Jerusalem where Jesus was born.
 How does a text summarization algorithm work?
 Usually, text summarization in NLP is treated as a supervised machine learning problem (where future outcomes are predicted based on provided data).
-Typically, here is how using the extraction-based approach to summarize texts can work:
-1. Introduce a method to extract the merited keyphrases from the source document. For example, you can use part-of-speech tagging, words sequences, or other linguistic patterns to identify the keyphrases.
-2. Gather text documents with positively-labeled keyphrases. The keyphrases should be compatible to the stipulated extraction technique. To increase accuracy, you can also create negatively-labeled keyphrases.
-3. Train a binary machine learning classifier to make the text summarization. Some of the features you can use include:
-Length of the keyphrase
-Frequency of the keyphrase
-The most recurring word in the keyphrase
-Number of characters in the keyphrase
-4. Finally, in the test phrase, create all the keyphrase words and sentences and carry out classification for them.
+<h1>Typically, here is how using the extraction-based approach to summarize texts can work:</h1>
+
+<ol type = "1">
+  <li>Introduce a method to extract the merited keyphrases from the source document. For example, you can use part-of-speech tagging, words sequences, or other linguistic patterns to identify the keyphrases.</li>
+  <li>Gather text documents with positively-labeled keyphrases. The keyphrases should be compatible to the stipulated extraction technique. To increase accuracy, you can also create negatively-labeled keyphrases.</li>
+  <li>Train a binary machine learning classifier to make the text summarization. Some of the features you can use include:
+    <ol type = "1">
+      <li>Length of the keyphrase</li>
+      <li>Frequency of the keyphrase</li>
+      <li>The most recurring word in the keyphrase</li>
+      <li>Number of characters in the keyphrase</li>
+      </ol>
+    
+   <li>Finally, in the test phrase, create all the keyphrase words and sentences and carry out classification for them.<li>
+  
 Summary
 Text summarization is an interesting machine learning field that is increasingly gaining traction. As research in this area continues, we can expect to see breakthroughs that will assist in fluently and accurately shortening long text documents.
