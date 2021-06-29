@@ -47,4 +47,4 @@ Usually, text summarization in NLP is treated as a supervised machine learning p
    <li>Finally, in the test phrase, create all the keyphrase words and sentences and carry out classification for them.<li>
   
 <h4>Summary</h4></br>
-Text summarization is an interesting machine learning field that is increasingly gaining traction. As research in this area continues, we can expect to see breakthroughs that will assist in fluently and accurately shortening long text documents. <a href="https://towardsdatascience.com/a-quick-introduction-to-text-summarization-in-machine-learning-3d27ccf18a9f" Source </a>
+Text summarization is an interesting machine learning field that is increasingly gaining traction. As research in this area continues, we can expect to see breakthroughs that will assist in fluently and accurately shortening long text documents. <a href="https://towardsdatascience.com/a-quick-introduction-to-text-summarization-in-machine-learning-3d27ccf18a9f"> Source </a>
